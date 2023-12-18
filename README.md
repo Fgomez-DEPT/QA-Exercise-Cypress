@@ -1,6 +1,7 @@
-#                                                                                                                   DEPT®
+# DEPT®
 ## QA AUTOMATION EXERCISE 
-The exercise consists of developing a script using one automation tool that follow one of the following paths using this app > https://csb-x6dpt1.netlify.app/
+The exercise consists of developing a script using one automation tool that follow one of the following paths using this app 
+> https://csb-x6dpt1.netlify.app/
 
 ### Path 1:
 ```
